@@ -1,4 +1,4 @@
-
+# Capucine Brisson
 
 Étudiante en 3ᵉ année de **double licence Intelligence Artificielle & Sciences des Organisations** à l'Université Paris-Dauphine, avec une formation pluridisciplinaire en **informatique, intelligence artificielle, économie et finance**.
 
